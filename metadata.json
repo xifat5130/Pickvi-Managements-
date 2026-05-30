@@ -1,0 +1,6 @@
+{
+  "name": "Pickvi Admin Panel",
+  "description": "A highly polished, responsive custom-built e-commerce admin panel system for Pickvi, featuring real-time delta syncs, moderator queues, and Steadfast courier tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

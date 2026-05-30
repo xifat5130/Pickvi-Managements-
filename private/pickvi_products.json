@@ -1,0 +1,49 @@
+[
+  {
+    "id": 101,
+    "name": "Pickvi Premium Cotton Polo Shirt",
+    "price": 950,
+    "sku": "PV-POLO-M",
+    "stock_quantity": 420,
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=150&auto=format&fit=crop&q=60",
+    "variations": [
+      { "id": 1011, "name": "Medium / Royal Blue", "price": 950, "stock_quantity": 120 },
+      { "id": 1012, "name": "Large / Royal Blue", "price": 950, "stock_quantity": 150 },
+      { "id": 1013, "name": "Extra Large / Black", "price": 1000, "stock_quantity": 150 }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Pickvi Slim-Fit Comfort Chinos",
+    "price": 1250,
+    "sku": "PV-CHINO-SLIM",
+    "stock_quantity": 185,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=150&auto=format&fit=crop&q=60",
+    "variations": [
+      { "id": 1021, "name": "Size 32 / Khaki", "price": 1250, "stock_quantity": 60 },
+      { "id": 1022, "name": "Size 34 / Charcoal", "price": 1250, "stock_quantity": 75 },
+      { "id": 1023, "name": "Size 36 / Navy Blue", "price": 1250, "stock_quantity": 50 }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Pickvi Premium Leather Belt",
+    "price": 650,
+    "sku": "PV-BELT-LEA",
+    "stock_quantity": 300,
+    "image": "https://images.unsplash.com/photo-1624222247344-550fb8ecf7db?w=150&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 104,
+    "name": "Pickvi Smart Casual Blazer",
+    "price": 3450,
+    "sku": "PV-BLAZ-SMC",
+    "stock_quantity": 48,
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=150&auto=format&fit=crop&q=60",
+    "variations": [
+      { "id": 1041, "name": "M / Premium Navy", "price": 3450, "stock_quantity": 20 },
+      { "id": 1042, "name": "L / Premium Navy", "price": 3450, "stock_quantity": 18 },
+      { "id": 1043, "name": "XL / Midnight Black", "price": 3600, "stock_quantity": 10 }
+    ]
+  }
+]

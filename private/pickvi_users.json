@@ -1,0 +1,16 @@
+[
+  {
+    "username": "admin",
+    "password_hash": "$2b$10$WbyUuREB7MvS3Y/K/vH2fe/f8uWkX8Ues8r36D9rTskvB9h2hXUme",
+    "fullName": "System Administrator",
+    "role": "admin",
+    "dateCreated": "2026-05-25T12:00:00Z"
+  },
+  {
+    "username": "moderator_xifat",
+    "password_hash": "$2b$10$3bJOnf9TebJ4J88gX9/K2eDfe/8uWkX8Ues8r36D9rTskvB9h2hXUme",
+    "fullName": "Xifat Ahmed",
+    "role": "moderator",
+    "dateCreated": "2026-05-26T14:30:00Z"
+  }
+]
